@@ -75,19 +75,19 @@
 
     
         header center#icono1 p{
-            background-image: url(/medios/img/instagram.png);
+            background-image: url(../medios/img/instagram.png);
             background-size:cover;
             background-repeat: no-repeat;
         }
 
         header center#icono2 p{
-            background-image: url(/medios/img/facebook.png);
+            background-image: url(../medios/img/facebook.png);
             background-size:contain;
             background-repeat: no-repeat;
         }
 
         header center#icono3 p{
-            background-image: url(/medios/img/twitter2.png);
+            background-image: url(../medios/img/twitter2.png);
             background-size: contain;
             background-repeat: no-repeat;
         }
@@ -161,12 +161,12 @@
             padding: 10px;
             margin: 2px 10px;
             font-family: 'Aoboshi One', serif;
-            background-image: url(/medios/img/lilametalizado.avif);
+            background-image: url(../medios/img/lilametalizado.avif);
             background-size:cover;
             background-position: 0%;
             list-style:square; 
             list-style-position:inside; 
-            list-style-image: url(/medios/img/click2.png);
+            list-style-image: url(../medios/img/click2.png);
         }
 
         #seccion4 aside ul li a{
@@ -221,21 +221,21 @@
         }
 
         aside#der input[type="text"] {
-             background-image: url(/Medios/img/usuario.png);
+             background-image: url(../medios/img/usuario.png);
              background-repeat: no-repeat;
              background-size: contain; 
              background-position: right;
             }
         
         aside#der input[type="Email"] {
-            background-image: url(/medios/img/emal.png);
+            background-image: url(../medios/img/emal.png);
             background-repeat: no-repeat;
             background-position: right;
             background-size: contain;
         }
         
         aside#der input[type="Contraseña"] {
-            background-image: url(/medios/img/contraseña.png);
+            background-image: url(../medios/img/contraseña.png);
             background-repeat: no-repeat;
             background-size: contain;
             background-position: right;
@@ -244,7 +244,7 @@
         aside#der input[type="submit"] {
             font-family: 'Aoboshi One', serif;
             border: 0;
-            background-image: url(/medios/img/fondo2.jpg);
+            background-image: url(../medios/img/fondo2.jpg);
             background-size:cover;
             background-position: 0%;
         }
