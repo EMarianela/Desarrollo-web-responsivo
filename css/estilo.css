@@ -159,7 +159,6 @@
 
 
         #seccion4 aside ul li{
-            display: grid;
             display: list-item;
             padding: 10px;
             margin: 2px 5px;
@@ -255,13 +254,13 @@
         }
 
         footer{
+            background: #612b6e;
+            border-top-right-radius: 10px;
+            border-top-left-radius: 10px;
         }
 
         footer div{
             font-family: 'Aoboshi One', serif;
-            background: #612b6e;
-            border-top-right-radius: 10px;
-            border-top-left-radius: 10px;
             text-align: center;
             line-height: 50px;
             color: white;
